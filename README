@@ -1,0 +1,8 @@
+This repository contains the perl source for all the programs in the
+book Genomic Perl: From Bioinformatics Basics To Working Code,
+Cambridge University Press, 2002.  This includes all the code on the
+CD that accompanied the book, some of which did not appear in the
+printed text.  The book is no longer in "print print", though
+electronic versions can still be purchased through the publisher.  I
+am releasing this code to the public domain.  The publisher does not
+own any exclusive rights to the code.
